@@ -1,0 +1,8 @@
+syntax: glob
+*.user
+*.suo
+*.ncb
+debug
+release
+foobar2000np\Debug
+foobar2000np\Release
